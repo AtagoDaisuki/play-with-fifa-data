@@ -1,2 +1,3 @@
 # play-with-fifa-data
-ml models might win you some gift cards from company's bet competition
+
+* [Dataset](https://github.com/amanthedorkknight/fifa18-all-player-statistics)
